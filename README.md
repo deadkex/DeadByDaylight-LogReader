@@ -1,4 +1,4 @@
-# DeadByDaylight-LogReader
+# DeadByDaylight-LogReader (Outdated)
 This was an old project to read the log of DeadByDaylight with the aim to finding the killer type while waiting in a lobby.
 
 Basics used:
